@@ -1,0 +1,9 @@
+student_id,name,tutorial,quiz1,quiz2,midterm
+1001,Alice,TUT0101,8,9,85
+1002,Bob,TUT0102,7,6,72
+1003,Carol,TUT0101,9,10,91
+1004,David,TUT0103,5,7,64
+1005,Emma,TUT0102,10,9,88
+1006,Frank,TUT0103,6,5,58
+1007,Grace,TUT0101,9,8,79
+1008,Henry,TUT0102,4,6,61
