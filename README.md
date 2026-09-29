@@ -2,11 +2,18 @@
 
 Course material for INF1340H1, Fall 2026, University of Toronto, Faculty of Information.
 
+## 快速开始 Quick start
+
+- **示范 notebook（在 Colab 打开）**：从 GitHub 下载数据并加载的三种方法
+  <https://colab.research.google.com/github/feimiao3419/INF1340/blob/main/notebooks/github_data_demo.ipynb>
+- **指南**：在 Colab 里改完 notebook 后怎么保存回这个仓库 → [docs/save_notebook_to_github.md](docs/save_notebook_to_github.md)
+
 ## 仓库结构 Repository layout
 
 ```
 ├── data/        # 数据集 Data files (CSV, JSON, etc.)
 ├── notebooks/   # Colab notebooks
+├── docs/        # 指南 Guides
 └── README.md
 ```
 
@@ -29,12 +36,12 @@ df.head()
 把 URL 中的 `github.com` 替换为 `colab.research.google.com/github` 即可，例如：
 
 ```
-https://colab.research.google.com/github/feimiao3419/INF1340/blob/main/notebooks/data_loading_template.ipynb
+https://colab.research.google.com/github/feimiao3419/INF1340/blob/main/notebooks/github_data_demo.ipynb
 ```
 
 或在 Colab 里 File → Open notebook → GitHub，输入 `feimiao3419/INF1340`。
 
 ## 协作 Collaboration
 
-- 直接编辑：让仓库主人在 Settings → Collaborators 里加你
+- 直接编辑：让仓库主人在 Settings → Collaborators 里加你，然后按 [指南](docs/save_notebook_to_github.md) 保存
 - 或者 fork 后提 Pull Request
