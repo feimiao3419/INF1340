@@ -1,0 +1,2 @@
+Hello, world! Don’t stop; well-known ideas matter.
+Python3 is popular and POWERFUL.
